@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-#ruby '2.5.1'
+#ruby '2.3.4'
 
 gem 'test-unit', '~> 3.2'
 
@@ -76,7 +76,7 @@ gem 'paperclip', '>= 5.2.0'
 gem 'fastimage'
 
 # Gems for authentication
-gem 'devise', git: 'https://github.com/plataformatec/devise' #, ref: '88e9a85'
+gem 'devise'
 gem 'devise-async'       # To mails through queues
 gem 'bcrypt'
 
