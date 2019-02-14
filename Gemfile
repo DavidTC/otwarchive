@@ -76,7 +76,7 @@ gem 'paperclip', '>= 5.2.0'
 gem 'fastimage'
 
 # Gems for authentication
-gem 'devise'
+gem 'devise', git: 'https://github.com/plataformatec/devise' #, ref: '88e9a85'
 gem 'devise-async'       # To mails through queues
 gem 'bcrypt'
 
