@@ -1,0 +1,2 @@
+redis_resque:
+  test: localhost:6379
