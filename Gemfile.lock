@@ -296,7 +296,7 @@ GEM
       pry (~> 0.10)
     public_suffix (3.0.3)
     rack (2.0.6)
-    rack-dev-mark (0.7.6)
+    rack-dev-mark (0.7.7)
       rack (>= 1.1, < 2.1)
     rack-protection (2.0.3)
       rack
