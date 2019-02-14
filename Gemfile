@@ -21,8 +21,8 @@ gem 'rails-controller-testing'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 # Database
-# gem 'sqlite3-ruby', :require => 'sqlite3'
-gem 'mysql2', '0.3.20'
+gem 'sqlite3-ruby', :require => 'sqlite3'
+# gem 'mysql2', '0.3.20'
 
 #https://github.com/qertoip/transaction_retry
 # We don't use the isolation gem directly, but it needs to be
