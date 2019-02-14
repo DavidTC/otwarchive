@@ -1,2 +1,2 @@
 redis_resque:
-  development: dev.ao3.org:6379
+  development: ec2-3-91-163-59.compute-1.amazonaws.com:10509
